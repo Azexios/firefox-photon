@@ -1,0 +1,23 @@
+/*** Photon-like Menu Colors (22 Sept 2021) ***/
+menupopup,
+/* Sidebar/Library bookmark/history context menus */
+#placesContext {
+  /* Text color */
+  --menu-color: #000 !important;
+  --arrowpanel-color: #000 !important;
+  --panel-color: #000 !important;
+  /* Background color */
+  --menu-background-color:  #f2f2f2 !important;
+  --arrowpanel-background: #f2f2f2 !important;
+  --panel-background: #f2f2f2 !important;
+  /* Border color (if any) */
+  --menu-border-color: threedshadow !important;
+  --arrowpanel-border-color: threedshadow !important;
+  --panel-border-color: threedshadow !important;
+  /* Hovered/expanded item background color */
+  --menuitem-hover-background-color: #e0e0e6 !important;
+  --button-hover-bgcolor: #e0e0e6 !important;
+  /* Disabled items text color and hovered background */
+  --menu-disabled-color: rgba(21, 20, 26, 0.4) !important;
+  --menuitem-disabled-hover-background-color: rgba(224, 224, 230, 0.4) !important;
+}

@@ -1,0 +1,13 @@
+@import "non_floating_sharp_tabs.css";
+@import "inline_tab_audio_icons.css";
+@import "tab_separator_lines.css";
+@import "CompactMode.css";
+@import "MenuColors.css";
+/*UrlbarBorder.css*/
+/*@import "photon_tab_separators.css";*/
+
+
+/* Border when focused */
+:root:-moz-lwtheme-brighttext {
+    --focus-outline-color: #0078D7 !important;
+}
